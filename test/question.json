@@ -1,0 +1,7 @@
+{
+  "question": "Que?",
+  "answers": ["a", "b", "c"],
+  "categories": ["cat1", "cat2", "cat3"],
+  "codeUrl": "https://codesandbox.io",
+  "code": "# Hello World\n\nMiep miep zoef.\n\n```js\nconst doSomething = () => {\n  console.log('hello world')\n}\n```\n\n- Stront\n- Keutels\n- Pis\n"
+}

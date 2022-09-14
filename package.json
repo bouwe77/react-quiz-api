@@ -1,0 +1,19 @@
+{
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon src/server.js"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.15.5",
+    "@babel/node": "^7.15.4",
+    "@babel/preset-env": "^7.15.4",
+    "@types/dotenv": "^8.2.0",
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "temba": "^0.10.13",
+    "yup": "^0.32.11"
+  }
+}
